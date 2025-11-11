@@ -78,7 +78,7 @@ def clean_text_for_prediction(text):
 def get_gemini_client():
     """Initialize Google Gemini client using Streamlit secrets."""
     # This requires the .streamlit/secrets.toml file
-    api_key = st.secrets.get("GOOGLE_API_KEY")
+    api_key = "AIzaSyCyAop6c818HMdHAK086yQ_FoAxJswhCk8"
     if not api_key:
         return None
     
