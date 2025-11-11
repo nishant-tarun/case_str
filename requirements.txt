@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+wordcloud
+openai
+joblib
+nltk
+google-generativeai
